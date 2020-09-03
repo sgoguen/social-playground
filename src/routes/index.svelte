@@ -43,4 +43,7 @@
 	<figcaption>Have fun with Sapper!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<figure>
+	<img alt='Living in a Prayer' src='living-on-a-prayer.gif'>
+	<figcaption>We've gotten this far. Might as well finish it.</figcaption>
+</figure>
