@@ -109,3 +109,9 @@ npm install -D @sveltejs/svelte-virtual-list
 ## Bugs and feedback
 
 Sapper is in early development, and may have the odd rough edge here and there. Please be vocal over on the [Sapper issue tracker](https://github.com/sveltejs/sapper/issues).
+
+## Pushing this to Github Pages
+
+To get this pushed up to Github pages, I used this handy guide written by [Agustín](https://dev.to/agustinl).
+
+Thanks for the write up!
